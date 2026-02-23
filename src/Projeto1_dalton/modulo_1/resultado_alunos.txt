@@ -1,0 +1,42 @@
+Nome                       Média  Situação
+-------------------------------------------------------
+Maria Barbosa               3.83  Reprovado por Nota
+Gabriel Lima                3.47  Reprovado por Nota
+Leandro Reis                4.05  Reprovado por Frequência
+Carla Costa                 5.90  Aprovado
+Felipe Mendes               5.43  Reprovado por Frequência
+Juliana Martins             6.40  Reprovado por Frequência
+Paulo Gomes                 5.20  Aprovado
+Leticia Andrade             7.17  Aprovado
+Isabela Oliveira            5.75  Reprovado por Frequência
+Arthur Vieira               3.90  Reprovado por Nota
+Lorena Vieira               5.97  Reprovado por Frequência
+Andre Dias                  4.25  Reprovado por Nota
+Ana Ferreira                5.37  Reprovado por Frequência
+Marcos Lopes                6.80  Aprovado
+Roberto Nascimento          5.30  Reprovado por Frequência
+Priscila Rocha              6.03  Reprovado por Frequência
+Livia Rodrigues             5.65  Reprovado por Frequência
+Patricia Moreira            3.25  Reprovado por Frequência
+Enzo Martins                2.12  Reprovado por Frequência
+Camila Lopes                4.88  Reprovado por Nota
+Tatiana Campos              3.77  Reprovado por Nota
+Gustavo Souza               4.10  Reprovado por Frequência
+Rodrigo Andrade             4.75  Reprovado por Nota
+Beatriz Rocha               2.90  Reprovado por Frequência
+Alexandre Ribeiro           7.35  Aprovado
+Thiago Barros               4.83  Reprovado por Nota
+Heitor Nascimento           3.88  Reprovado por Frequência
+Samuel Rocha                3.38  Reprovado por Frequência
+Bruna Monteiro              4.22  Reprovado por Nota
+Ana Andrade                 3.88  Reprovado por Frequência
+Tatiana Correia             5.65  Aprovado
+Clara Moreira               3.25  Reprovado por Nota
+Fernando Moura              3.95  Reprovado por Frequência
+Fabio Barbosa               4.00  Reprovado por Nota
+Bianca Ramos                6.03  Reprovado por Frequência
+Amanda Dias                 7.18  Reprovado por Frequência
+Leonardo Costa              5.15  Reprovado por Frequência
+Gabriela Nunes              7.00  Aprovado
+Raquel Nascimento           6.92  Aprovado
+Eduardo Martins             3.80  Reprovado por Frequência
