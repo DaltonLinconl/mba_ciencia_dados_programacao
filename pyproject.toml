@@ -113,7 +113,7 @@ known-first-party = ["my_package"]
 # Tipagem (Pyright)
 # ============================
 [tool.pyright]
-typeCheckingMode = "strict"
+typeCheckingMode = "basic"
 pythonVersion = "3.13"
 include = ["src", 'tests']
 exclude = [

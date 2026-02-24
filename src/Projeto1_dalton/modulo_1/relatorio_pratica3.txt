@@ -1,0 +1,192 @@
+RELATÓRIO CLIMÁTICO
+==================================================
+
+Média geral Temp_Max: 32.27
+Desvio padrão Temp_Max: 4.56
+Limite de outlier: 41.40
+
+RESUMO POR CIDADE
+--------------------------------------------------
+
+Cidade: Belem
+Total registros: 3
+Média Temp_Max: 31.30
+Dias extremos: 0
+
+Cidade: Belo Horizonte
+Total registros: 4
+Média Temp_Max: 30.85
+Dias extremos: 0
+
+Cidade: Brasilia
+Total registros: 2
+Média Temp_Max: 33.35
+Dias extremos: 0
+
+Cidade: Campinas
+Total registros: 4
+Média Temp_Max: 33.35
+Dias extremos: 0
+
+Cidade: Curitiba
+Total registros: 1
+Média Temp_Max: 34.80
+Dias extremos: 0
+
+Cidade: Florianopolis
+Total registros: 2
+Média Temp_Max: 34.60
+Dias extremos: 0
+
+Cidade: Fortaleza
+Total registros: 4
+Média Temp_Max: 29.57
+Dias extremos: 0
+
+Cidade: Goiania
+Total registros: 2
+Média Temp_Max: 30.10
+Dias extremos: 0
+
+Cidade: Joao Pessoa
+Total registros: 2
+Média Temp_Max: 39.40
+Dias extremos: 0
+
+Cidade: Maceio
+Total registros: 5
+Média Temp_Max: 33.12
+Dias extremos: 0
+
+Cidade: Manaus
+Total registros: 2
+Média Temp_Max: 33.55
+Dias extremos: 0
+
+Cidade: Porto Alegre
+Total registros: 2
+Média Temp_Max: 30.80
+Dias extremos: 0
+
+Cidade: Recife
+Total registros: 4
+Média Temp_Max: 32.30
+Dias extremos: 0
+
+Cidade: Rio de Janeiro
+Total registros: 2
+Média Temp_Max: 29.20
+Dias extremos: 0
+
+Cidade: Salvador
+Total registros: 2
+Média Temp_Max: 37.00
+Dias extremos: 0
+
+Cidade: Sao Luis
+Total registros: 1
+Média Temp_Max: 34.10
+Dias extremos: 0
+
+Cidade: Sao Paulo
+Total registros: 1
+Média Temp_Max: 26.90
+Dias extremos: 0
+
+Cidade: Teresina
+Total registros: 5
+Média Temp_Max: 30.72
+Dias extremos: 0
+
+
+RESUMO POR ESTADO
+--------------------------------------------------
+
+Estado: AL
+Total registros: 5
+Média Temp_Max: 33.12
+Dias extremos: 0
+
+Estado: AM
+Total registros: 2
+Média Temp_Max: 33.55
+Dias extremos: 0
+
+Estado: BA
+Total registros: 2
+Média Temp_Max: 37.00
+Dias extremos: 0
+
+Estado: CE
+Total registros: 4
+Média Temp_Max: 29.57
+Dias extremos: 0
+
+Estado: DF
+Total registros: 2
+Média Temp_Max: 33.35
+Dias extremos: 0
+
+Estado: GO
+Total registros: 2
+Média Temp_Max: 30.10
+Dias extremos: 0
+
+Estado: MA
+Total registros: 1
+Média Temp_Max: 34.10
+Dias extremos: 0
+
+Estado: MG
+Total registros: 4
+Média Temp_Max: 30.85
+Dias extremos: 0
+
+Estado: PA
+Total registros: 3
+Média Temp_Max: 31.30
+Dias extremos: 0
+
+Estado: PB
+Total registros: 2
+Média Temp_Max: 39.40
+Dias extremos: 0
+
+Estado: PE
+Total registros: 4
+Média Temp_Max: 32.30
+Dias extremos: 0
+
+Estado: PI
+Total registros: 5
+Média Temp_Max: 30.72
+Dias extremos: 0
+
+Estado: PR
+Total registros: 1
+Média Temp_Max: 34.80
+Dias extremos: 0
+
+Estado: RJ
+Total registros: 2
+Média Temp_Max: 29.20
+Dias extremos: 0
+
+Estado: RS
+Total registros: 2
+Média Temp_Max: 30.80
+Dias extremos: 0
+
+Estado: SC
+Total registros: 2
+Média Temp_Max: 34.60
+Dias extremos: 0
+
+Estado: SP
+Total registros: 5
+Média Temp_Max: 32.06
+Dias extremos: 0
+
+
+DIAS COM TEMPERATURA EXTREMA
+--------------------------------------------------
