@@ -1,0 +1,90 @@
+===== RELATÓRIO DO ACERVO DA BIBLIOTECA =====
+
+Total de livros no acervo: 35
+
+Livros por gênero:
+ - Romance: 18
+ - Fantasia: 3
+ - Ficcao: 2
+ - Ficcao Cientifica: 2
+ - Realismo Magico: 1
+ - Fabula: 1
+ - Satira: 1
+ - Nao Ficcao: 1
+ - Ciencia: 1
+ - Autoajuda: 1
+ - Financas: 1
+ - Estrategia: 1
+ - Biografia: 1
+ - Autobiografia: 1
+
+Autores mais presentes:
+ - Machado de Assis: 2 livro(s)
+ - Erico Verissimo: 2 livro(s)
+ - George Orwell: 2 livro(s)
+ - Guimaraes Rosa: 1 livro(s)
+ - Aluisio Azevedo: 1 livro(s)
+ - Jorge Amado: 1 livro(s)
+ - Graciliano Ramos: 1 livro(s)
+ - Clarice Lispector: 1 livro(s)
+ - Paulo Coelho: 1 livro(s)
+ - Jose de Alencar: 1 livro(s)
+ - Mario de Andrade: 1 livro(s)
+ - Gabriel Garcia Marquez: 1 livro(s)
+ - J.R.R. Tolkien: 1 livro(s)
+ - J.K. Rowling: 1 livro(s)
+ - Antoine de Saint-Exupery: 1 livro(s)
+ - Fiodor Dostoievski: 1 livro(s)
+ - Jane Austen: 1 livro(s)
+ - F. Scott Fitzgerald: 1 livro(s)
+ - Franz Kafka: 1 livro(s)
+ - J.D. Salinger: 1 livro(s)
+ - Yuval Noah Harari: 1 livro(s)
+ - Stephen Hawking: 1 livro(s)
+ - Charles Duhigg: 1 livro(s)
+ - Robert Kiyosaki: 1 livro(s)
+ - Sun Tzu: 1 livro(s)
+ - Emily Bronte: 1 livro(s)
+ - Markus Zusak: 1 livro(s)
+ - Anne Frank: 1 livro(s)
+ - Maya Angelou: 1 livro(s)
+ - C.S. Lewis: 1 livro(s)
+ - Frank Herbert: 1 livro(s)
+ - Jose Saramago: 1 livro(s)
+
+Livros mais populares (por número de empréstimos):
+ - Harry Potter e a Pedra Filosofal | J.K. Rowling | Empréstimos: 49
+ - O Grande Gatsby | F. Scott Fitzgerald | Empréstimos: 48
+ - Pai Rico Pai Pobre | Robert Kiyosaki | Empréstimos: 46
+ - Duna | Frank Herbert | Empréstimos: 45
+ - O Cortico | Aluisio Azevedo | Empréstimos: 45
+ - Grande Sertao: Veredas | Guimaraes Rosa | Empréstimos: 44
+ - Crime e Castigo | Fiodor Dostoievski | Empréstimos: 44
+ - O Pequeno Principe | Antoine de Saint-Exupery | Empréstimos: 41
+ - O Morro dos Ventos Uivantes | Emily Bronte | Empréstimos: 39
+ - 1984 | George Orwell | Empréstimos: 37
+ - Iracema | Jose de Alencar | Empréstimos: 36
+ - Capitaes da Areia | Jorge Amado | Empréstimos: 35
+ - Memorias Postumas de Bras Cubas | Machado de Assis | Empréstimos: 35
+ - A Menina que Roubava Livros | Markus Zusak | Empréstimos: 35
+ - Vidas Secas | Graciliano Ramos | Empréstimos: 32
+ - Ensaio Sobre a Cegueira | Jose Saramago | Empréstimos: 26
+ - As Cronicas de Narnia | C.S. Lewis | Empréstimos: 25
+ - O Apanhador no Campo de Centeio | J.D. Salinger | Empréstimos: 24
+ - A Arte da Guerra | Sun Tzu | Empréstimos: 23
+ - A Hora da Estrela | Clarice Lispector | Empréstimos: 23
+ - Olhai os Lirios do Campo | Erico Verissimo | Empréstimos: 22
+ - Orgulho e Preconceito | Jane Austen | Empréstimos: 21
+ - O Poder do Habito | Charles Duhigg | Empréstimos: 18
+ - Dom Casmurro | Machado de Assis | Empréstimos: 15
+ - A Revolucao dos Bichos | George Orwell | Empréstimos: 12
+ - Eu Sei Por Que o Passaro Canta na Gaiola | Maya Angelou | Empréstimos: 9
+ - Macunaima | Mario de Andrade | Empréstimos: 8
+ - Cem Anos de Solidao | Gabriel Garcia Marquez | Empréstimos: 8
+ - A Metamorfose | Franz Kafka | Empréstimos: 7
+ - O Tempo e o Vento | Erico Verissimo | Empréstimos: 7
+ - O Alquimista | Paulo Coelho | Empréstimos: 4
+ - Breve Historia do Tempo | Stephen Hawking | Empréstimos: 3
+ - O Diario de Anne Frank | Anne Frank | Empréstimos: 2
+ - O Senhor dos Aneis | J.R.R. Tolkien | Empréstimos: 1
+ - Sapiens | Yuval Noah Harari | Empréstimos: 1

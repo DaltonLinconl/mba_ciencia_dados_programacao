@@ -1,0 +1,35 @@
+RELATÓRIO CAFETERIA
+========================================
+
+Resumo por Turno
+----------------------------------------
+Turno  total_vendas  faturamento_total
+Manha            16             758.56
+Noite            17             633.82
+Tarde            17             774.75
+
+Resumo por Produto
+----------------------------------------
+          Produto  quantidade_total  faturamento_total
+     Agua Mineral                 1               3.29
+  Bolo de Cenoura                 9              80.10
+          Brownie                18             133.44
+    Cafe Expresso                11              62.95
+   Cafe com Leite                32             235.41
+       Cappuccino                24             244.16
+ Chocolate Quente                14             111.75
+           Cookie                10              37.53
+          Coxinha                13              74.18
+           Empada                 6              39.66
+     Misto Quente                28             220.62
+    Pao de Queijo                10              44.65
+            Pudim                23             185.78
+Sanduiche Natural                43             483.24
+     Suco Natural                27             210.37
+
+Resumo por Forma de Pagamento
+----------------------------------------
+Forma_Pagamento  total_vendas  faturamento_total
+         Cartao            18             857.21
+       Dinheiro            15             664.03
+            Pix            17             645.89
