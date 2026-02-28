@@ -1,0 +1,31 @@
+===== RANKING POR EQUIPE =====
+
+1º (5km) | 6º (10km) | Tribo da Corrida | Média 5km: 16.57 | Média 10km: 75.45
+2º (5km) | 3º (10km) | Corredores do Parque | Média 5km: 22.62 | Média 10km: 56.41
+3º (5km) | 4º (10km) | Equipe Maratona | Média 5km: 27.45 | Média 10km: 73.32
+4º (5km) | 8º (10km) | Runners Club | Média 5km: 27.76 | Média 10km: 84.25
+5º (5km) | 1º (10km) | Individual | Média 5km: 30.97 | Média 10km: 54.53
+6º (5km) | 7º (10km) | Fortaleza Running | Média 5km: 31.03 | Média 10km: 78.51
+7º (5km) | 2º (10km) | Pes de Vento | Média 5km: 31.84 | Média 10km: 55.41
+8º (5km) | 5º (10km) | Pelotao da Serra | Média 5km: 33.81 | Média 10km: 73.40
+
+
+===== RANKING POR CIDADE =====
+
+1º (5km) | 1º (10km) | Belo Horizonte | Média 5km: 17.46 | Média 10km: 51.53
+2º (5km) | 6º (10km) | Vitoria | Média 5km: 21.12 | Média 10km: 60.67
+3º (5km) | 2º (10km) | Florianopolis | Média 5km: 23.06 | Média 10km: 54.86
+4º (5km) | 15º (10km) | Belem | Média 5km: 23.59 | Média 10km: 75.82
+5º (5km) | 11º (10km) | Manaus | Média 5km: 25.37 | Média 10km: 70.52
+6º (5km) | 13º (10km) | Teresina | Média 5km: 26.26 | Média 10km: 71.67
+7º (5km) | 12º (10km) | Rio de Janeiro | Média 5km: 26.66 | Média 10km: 71.44
+8º (5km) | 5º (10km) | Goiania | Média 5km: 27.13 | Média 10km: 58.18
+9º (5km) | 10º (10km) | Campinas | Média 5km: 31.23 | Média 10km: 70.15
+10º (5km) | 9º (10km) | Sao Paulo | Média 5km: 31.59 | Média 10km: 69.57
+11º (5km) | 7º (10km) | Natal | Média 5km: 34.23 | Média 10km: 65.70
+12º (5km) | 16º (10km) | Recife | Média 5km: 34.68 | Média 10km: 78.55
+13º (5km) | 8º (10km) | Salvador | Média 5km: 35.98 | Média 10km: 66.85
+14º (5km) | 14º (10km) | Curitiba | Média 5km: 36.93 | Média 10km: 74.85
+15º (5km) | 3º (10km) | Sao Luis | Média 5km: 41.68 | Média 10km: 56.82
+16º (5km) | 17º (10km) | Porto Alegre | Média 5km: 43.09 | Média 10km: 85.90
+17º (5km) | 4º (10km) | Fortaleza | Média 5km: 43.45 | Média 10km: 57.47
