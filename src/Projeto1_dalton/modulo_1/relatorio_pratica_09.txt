@@ -1,0 +1,26 @@
+===== CONTROLE FINANCEIRO =====
+
+Resumo Geral
+Total gasto: R$ 15918.96
+Média por gasto: R$ 318.38
+Quantidade de registros: 50
+
+Gastos por Categoria
+ - Moradia: R$ 6300.74
+ - Educacao: R$ 3621.67
+ - Lazer: R$ 2357.14
+ - Transporte: R$ 1260.99
+ - Alimentacao: R$ 1249.76
+ - Vestuario: R$ 666.58
+ - Saude: R$ 462.08
+
+Gastos Fixos vs Variáveis
+ - Fixo: R$ 9803.75
+ - Variavel: R$ 6115.21
+
+Essenciais vs Não Essenciais
+ - Nao: R$ 3779.72
+ - Sim: R$ 12139.24
+
+Forma de pagamento mais utilizada
+ - Boleto
