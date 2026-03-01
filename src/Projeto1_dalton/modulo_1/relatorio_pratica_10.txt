@@ -1,0 +1,41 @@
+RELATÓRIO DE TRIAGEM DE PACIENTES
+========================================
+
+ESTATÍSTICAS GERAIS
+-------------------------
+Total de pacientes: 40
+Média de idade: 51.6 anos
+Percentual de fumantes: 55.0%
+
+CLASSIFICAÇÃO POR FAIXA DE RISCO
+-----------------------------------
+Alto risco: 24 pacientes
+Médio risco: 14 pacientes
+Baixo risco: 2 pacientes
+
+PACIENTES PRIORITÁRIOS (ALTO RISCO)
+----------------------------------------
+ID: 8 | Nome: Otavio Mendes | Idade: 60 | Score: 6
+ID: 11 | Nome: Livia Araujo | Idade: 21 | Score: 6
+ID: 39 | Nome: Carla Ramos | Idade: 34 | Score: 6
+ID: 34 | Nome: Leticia Monteiro | Idade: 55 | Score: 6
+ID: 13 | Nome: Camila Freitas | Idade: 79 | Score: 5
+ID: 14 | Nome: Renata Melo | Idade: 28 | Score: 5
+ID: 6 | Nome: Carlos Pereira | Idade: 39 | Score: 5
+ID: 3 | Nome: Joao Araujo | Idade: 73 | Score: 5
+ID: 36 | Nome: Cristina Pinto | Idade: 36 | Score: 5
+ID: 29 | Nome: Rodrigo Martins | Idade: 54 | Score: 5
+ID: 25 | Nome: Carlos Lopes | Idade: 67 | Score: 5
+ID: 17 | Nome: Beatriz Ferreira | Idade: 36 | Score: 5
+ID: 30 | Nome: Mariana Duarte | Idade: 32 | Score: 5
+ID: 20 | Nome: Isabela Vieira | Idade: 41 | Score: 5
+ID: 1 | Nome: Luciana Rocha | Idade: 27 | Score: 4
+ID: 10 | Nome: Tatiana Monteiro | Idade: 66 | Score: 4
+ID: 9 | Nome: Murilo Carvalho | Idade: 79 | Score: 4
+ID: 21 | Nome: Fabio Mendes | Idade: 18 | Score: 4
+ID: 16 | Nome: Caio Andrade | Idade: 82 | Score: 4
+ID: 19 | Nome: Henrique Costa | Idade: 39 | Score: 4
+ID: 23 | Nome: Aline Moura | Idade: 67 | Score: 4
+ID: 27 | Nome: Daniela Silva | Idade: 80 | Score: 4
+ID: 31 | Nome: Helena Melo | Idade: 45 | Score: 4
+ID: 37 | Nome: Rodrigo Correia | Idade: 76 | Score: 4
